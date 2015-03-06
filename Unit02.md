@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202B: Research Methods Lab"
+course_description: "An application of knowledge gained in PSYCH202a, through creation, editing, evaluation, and review of experiments."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Literature Review** <span id="2"></span> 
 *As researchers develop their questions, they must perform a review of
 existing literature in order to discover previous studies conducted in

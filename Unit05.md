@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202B: Research Methods Lab"
+course_description: "An application of knowledge gained in PSYCH202a, through creation, editing, evaluation, and review of experiments."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Activity: Sample Experimental paper** <span id="5"></span> 
 *In this unit, you will practice writing a research paper.  Although
 your paper will not reflect any actual data and will lack the depth of

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202B: Research Methods Lab"
+course_description: "An application of knowledge gained in PSYCH202a, through creation, editing, evaluation, and review of experiments."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Measurement and Statistics** <span id="4"></span> 
 *You have now performed each of the steps necessary to design your
 experiment, but how will you be able to tell whether your result is

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202B: Research Methods Lab"
+course_description: "An application of knowledge gained in PSYCH202a, through creation, editing, evaluation, and review of experiments."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Study Designs** <span id="3"></span> 
 *In the lecture section of this course, we reviewed the types and
 purposes of many of the study designs most commonly used in psychology

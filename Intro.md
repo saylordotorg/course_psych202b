@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202B: Research Methods Lab"
+course_description: "An application of knowledge gained in PSYCH202a, through creation, editing, evaluation, and review of experiments."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH202B: Research Methods Lab"
 -----------------------------------------------------
 

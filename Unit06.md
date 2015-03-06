@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202B: Research Methods Lab"
+course_description: "An application of knowledge gained in PSYCH202a, through creation, editing, evaluation, and review of experiments."
+next: ../../../
+previous: ../Unit05
+---
 **Unit 6: Final Exam** <span id="6"></span> 
 -   **Final Exam: The Saylor Foundation's "PSYCH202B Final Exam"**
     Link: The Saylor Foundation's "[PSYCH202B Final

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202B: Research Methods Lab"
+course_description: "An application of knowledge gained in PSYCH202a, through creation, editing, evaluation, and review of experiments."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Developing a Research Question** <span id="1"></span> 
 *One of the most important—and frequently overlooked—steps in successful
 research occurs prior to laboratory experimentation, when the researcher
