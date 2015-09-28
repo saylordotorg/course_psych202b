@@ -60,3 +60,4 @@ Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentH
 - [Unit 4](https://legacy.saylor.org/psych202b/Unit04/)
 - [Unit 5](https://legacy.saylor.org/psych202b/Unit05/)
 - [Unit 6](https://legacy.saylor.org/psych202b/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH202B/PSYCH202B-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH202B/PSYCH202B-FinalExam-Answers.html)
