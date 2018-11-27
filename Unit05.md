@@ -21,7 +21,7 @@ that practical applications can diverge from strict theory.*
     version of Daryl J. Bem’s “Writing the Empirical Journal Article”**
     Link: University of Washington: Psychology Writing Center’s version
     of Daryl J. Bem’s "[Writing the Empirical Journal
-    Article](http://www.saylor.org/site/wp-content/uploads/2011/08/PSYCH202B-5.1-Writing-the-Empirical-Journal-Article.pdf)" (PDF)  
+    Article](https://resources.saylor.org/archived/wp-content/uploads/2011/08/PSYCH202B-5.1-Writing-the-Empirical-Journal-Article.pdf)" (PDF)  
       
      Instructions: Clicking on the above link will bring you to the
     University of Washington’s Psychology Writing Center.  Scroll down

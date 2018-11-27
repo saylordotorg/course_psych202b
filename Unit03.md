@@ -77,7 +77,7 @@ id="3.1.1"></span> 
 **3.1.4 Complex Experimental Designs** <span id="3.1.4"></span> 
 -   **Reading: Wikipedia’s “Factorial Experiment”**
     Link: Wikipedia’s ["Factorial
-    Experiment"](http://www.saylor.org/site/wp-content/uploads/2011/08/PSYCH202B-3.1.4-Factorial-Experiment.pdf) (PDF)  
+    Experiment"](https://resources.saylor.org/archived/wp-content/uploads/2011/08/PSYCH202B-3.1.4-Factorial-Experiment.pdf) (PDF)  
       
      Instructions: Please read the entirety of this webpage for a review
     of factorial designs (otherwise known as complex experimental
