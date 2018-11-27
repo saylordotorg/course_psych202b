@@ -94,11 +94,11 @@ be able to explain your selection.*
 id="4.2.2"></span> 
 -   **Reading: Wikipedia’s “Level of Measurement”**
     Link: Wikipedia’s "[Level of
-    Measurement](http://www.saylor.org/site/wp-content/uploads/2011/08/PSYCH202B-4.2.2-Level-of-measurement.pdf)" (PDF)  
+    Measurement](https://resources.saylor.org/archived/wp-content/uploads/2011/08/PSYCH202B-4.2.2-Level-of-measurement.pdf)" (PDF)  
       
      Also available in:  
 
-    [iBook](http://www.saylor.org/site/wp-content/uploads/2011/08/PSYCH202B-4.2.2-Level-of-measurement-Author.epub)  
+    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/PSYCH202B-4.2.2-Level-of-measurement-Author.epub)  
       
      Instructions: Read above webpage.  Consider the dependent variables
     in your research topic and how they would be measured.  
