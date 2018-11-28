@@ -53,7 +53,7 @@ id="2.1.2"></span> 
     "Writing a Psychology Literature Review"**
     Link: University of Washington: Psychology Writing
     Center’s ["Writing a Psychology Literature
-    Review”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/PSYCH202B-2.1.2-Writing-a-psychology-literature-review.pdf) (PDF)  
+    Review”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/PSYCH202B-2.1.2-Writing-a-psychology-literature-review.pdf) (PDF)  
       
      Instructions: Please access the above file, which you should have
     saved when you first encountered it in Unit 1.3.  If you have not
@@ -78,7 +78,7 @@ id="2.1.2"></span> 
     "Writing a Psychology Literature Review"**
     Link: University of Washington: Psychology Writing
     Center’s ["Writing a Psychology Literature
-    Review](https://resources.saylor.org/archived/wp-content/uploads/2011/08/PSYCH202B-2.1.2-Writing-a-psychology-literature-review.pdf) (PDF)  
+    Review](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/PSYCH202B-2.1.2-Writing-a-psychology-literature-review.pdf) (PDF)  
       
      Instructions: Please access the above file, which you should have
     saved when you first encountered it in sub-units 1.3 and 2.1.2.  If
